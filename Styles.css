@@ -1,0 +1,88 @@
+h1{
+    text-align: center;
+    margin-left: 50px;
+    font-size: 50px;
+}
+.image1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.image{
+    border-radius:50%;
+    max-width: 20vw;
+    text-align: center;
+    align-items: center;
+}
+
+.name{
+    color: darkolivegreen;
+    display: block;
+}
+.text{
+    color: brown;
+    font-style: initial;
+    font-size: 24px;
+    text-align: center;
+}
+.quote{
+    text-align: center;
+    color: darkblue;
+    margin-top: 30px;
+    display: block;
+    margin-left: 15px;
+    font-size: 20px;
+}
+footer{
+    display: block;
+    margin-top: 50px;
+    text-align: center;
+}
+.about{
+    font-style: initial;
+    font-size: 23px;
+    color: chocolate;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+.hobbies1{
+    font-size: 28px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.hobbies{
+    font-size: 25px;
+    color: blue;
+    text-decoration: underline;
+    text-space: 5px;
+    text-align: center;
+}
+.positive{
+    text-align: center;
+    text-transform: full-width;
+    font-size: 18px;
+}
+.list{
+    font-size: 28px;
+    color: orangered;
+    text-align: center;
+}
+.sublist{
+    font-size: 22px;
+
+}
+.funny{
+    font-size: 25px;
+    color: black;
+    font-style: italic;
+    text-decoration: underline;
+    text-align: center;
+}
+.tl{
+    font-size: 15px;
+}
+.story{
+    font-size: 20px;
+    font-style: normal;
